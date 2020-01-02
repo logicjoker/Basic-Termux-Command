@@ -1,5 +1,5 @@
 # Basic-Termux-Command
-All Command of Termux Beginner
+all command of termux beginner
 *****
 Donation 
 <br> 
