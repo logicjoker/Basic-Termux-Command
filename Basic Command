@@ -7,6 +7,7 @@ ls - show file in folder
 apt update && apt upgrade - this command use to update and upgrade your apt in termux
 pkg update && pkg upgrade - this command use to update and upgrade your pkg in termux
 nano - edit a file
+termux-setup-storage - access storage of your deivce (if you put a script file on your device)
 *****
 
 if you learn more about command click here : https://medium.com/bug-bounty-hunting/commands-in-termux-app-7c15ef5a1101
