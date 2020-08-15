@@ -1,15 +1,15 @@
 Termux is basic software to config code and writing code to making script or use hack of learning NOT HACKING Somebody !!!!
 *****
-MKDIR - Create a folder
-rm -rf - Delete file
-rm - Delete Folder
-cd - select directory
+MKDIR [folder name] - Create a folder
+rm -rf [file name] - Delete file
+rm [folder name]- Delete Folder
+cd [file name] - select directory
 ls - show file in folder
 apt update && apt upgrade - this command use to update and upgrade your apt in termux
 pkg update && pkg upgrade - this command use to update and upgrade your pkg in termux
-nano - edit a file
+nano [file name] - edit a file
 termux-setup-storage - access storage of your deivce (if you put a script file on your device)
-cat - view your file only [not edit]
+cat [file name] - view your file only [not edit]
 cd .. - root file in termux
 *****
 
